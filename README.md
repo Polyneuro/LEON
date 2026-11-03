@@ -27,7 +27,4 @@ LEON 0.32 has the following structure:
         3) XOR-XNOR recursion
 All three subsections involve creation of a binary out put and the final output is a concatenation binary data. This is the input to a 7 model council of experts (ML models that has a much smaller feature space to go through and output a probability vector).
 
-
-```python
-
 ```
